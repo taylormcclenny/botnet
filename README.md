@@ -6,7 +6,7 @@ You can see my Weekly Bot Performance Reviews, Market Analysis, & Development Re
 Building Crypto Trading Bots - Fears & Gains - Week 4:  https://www.youtube.com/watch?v=a81r5LGjU-c&list=PLz924qEVH6euaBtP_0fvOI5vxcEA_jVhA&index=6
 
 You can see my tutorial series here.
-Building a Bot Network, A Tutorial (Part 1):  https://www.youtube.com/watch?v=PdZV7ty3YR8
-Building a Bot Network, A Tutorial (Part 2):  https://www.youtube.com/watch?v=kXf5lUzaaM4
+- Building a Bot Network, A Tutorial (Part 1):  https://www.youtube.com/watch?v=PdZV7ty3YR8
+- Building a Bot Network, A Tutorial (Part 2):  https://www.youtube.com/watch?v=kXf5lUzaaM4
 
 You can see my bots trading LIVE via https://www.taylormcclenny.com
