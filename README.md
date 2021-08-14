@@ -7,7 +7,6 @@ Building Crypto Trading Bots - Fears & Gains - Week 4:  https://www.youtube.com/
 
 You can see my tutorial series here.
 Building a Bot Network, A Tutorial (Part 1):  https://www.youtube.com/watch?v=PdZV7ty3YR8
-
 Building a Bot Network, A Tutorial (Part 2):  https://www.youtube.com/watch?v=kXf5lUzaaM4
 
 You can see my bots trading LIVE via https://www.taylormcclenny.com
